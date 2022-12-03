@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+/.idea
+/venv
+/.pytest_cache
+
 # C extensions
 *.so
 
@@ -126,4 +130,4 @@ venv.bak/
 dmypy.json
 
 # Pyre type checker
-.pyre/
+.pyre/# created by virtualenv automatically
